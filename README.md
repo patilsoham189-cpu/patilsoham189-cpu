@@ -3,8 +3,8 @@
 <p align="left">
   <a href="https://linkedin.com/in/soham-patil-cs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://patilsoham189-cpu.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://leetcode.com/u/Soham416/"><img src="https://img.shields.io/badge/LeetCode-@Soham416-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="mailto:patilsoham189@gmail.com"><img src="https://img.shields.io/badge/Email-patilsoham189%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-100_Days_2026-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
 ---
@@ -42,14 +42,20 @@ Final-year Computer Engineering undergraduate at **Savitribai Phule Pune Univers
 #### 🌐 [Interactive Developer Portfolio & CLI Emulator](https://github.com/patilsoham189-cpu/portfolio)
 *Built with HTML5, Tailwind CSS, and Vanilla JavaScript.*
 - Single-page responsive portfolio featuring an interactive retro terminal emulator, live LeetCode progress metrics, Day/Night glassmorphism theme, and zero build friction.
+- **Live Demo:** [https://patilsoham189-cpu.github.io/portfolio/](https://patilsoham189-cpu.github.io/portfolio/)
+
+#### 📚 [SPPU DBMS Practicals & Database Labs](https://github.com/patilsoham189-cpu/sppu-dbms-practicals)
+*Curated laboratory practicals, SQL schemas, PL/SQL procedures, cursors, triggers, and JDBC connectivity.*
 
 ---
 
 ### 📈 Problem Solving & GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patilsoham189-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilsoham189-cpu&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <a href="https://leetcode.com/u/Soham416/">
+    <img src="https://leetcard.jacoblin.cool/Soham416?theme=dark&font=Plus%20Jakarta%20Sans" height="170" alt="LeetCode Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=patilsoham189-cpu&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
 ---
