@@ -45,7 +45,11 @@ Final-year Computer Engineering undergraduate at **Savitribai Phule Pune Univers
 - **Live Demo:** [https://patilsoham189-cpu.github.io/portfolio/](https://patilsoham189-cpu.github.io/portfolio/)
 
 #### 📚 [SPPU DBMS Practicals & Database Labs](https://github.com/patilsoham189-cpu/sppu-dbms-practicals)
-*Curated laboratory practicals, SQL schemas, PL/SQL procedures, cursors, triggers, and JDBC connectivity.*
+*Curated laboratory practicals, SQL schemas, PL/SQL cursors & triggers, MongoDB NoSQL pipelines, and JDBC connectivity.*
+
+#### 💻 [Prodigy InfoTech — Web Development Internship](https://github.com/patilsoham189-cpu/prodigy-infotech-web-development)
+*Collection of interactive frontend web applications and API integrations.*
+- **Projects:** GameHub Landing Page, Precision Stopwatch, Two-Player Tic-Tac-Toe, and OpenWeather Live Forecast App.
 
 ---
 
